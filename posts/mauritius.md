@@ -1,5 +1,5 @@
 ---
-title: The hidden paradise 2
+title: The hidden paradise
 author: Father John Misty
 date: 2019-07-08T16:05:29.000Z
 hero_image: "../static/john-o-nolan-mauritius.jpg"
